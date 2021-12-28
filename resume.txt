@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+html>
+<head>
+<title>wwww.my resume</title>
+<style>
+body{background-color:Blue;}
+body{border-style:ridge;border-coler:tomato;width:2px;margin;100%;}
+h1{color:blue;text-align:center;text-decoration :underline;shadow:3px 2px green;}
+h2{text-shadow:3px 2px red;}
+</style>
+</head>
+<body>
+<h1>SATISH KUMAR JAISWAL<br>RESUME</h1>
+<address>Address:<br>s-184/27 okhla phase 1 NEW-DELHI 110020 </address>
+<br>
+<br>
+<h2>Qualification:</h2>
+<ol type="A";font-color:red;>
+<li>
+ 
+</ol>
+</body>
